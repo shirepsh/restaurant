@@ -1,0 +1,52 @@
+        body {
+            background-image: url(/media/heaven.jpeg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        h2 {
+            color: white;
+            font-size: xx-large;
+            text-align: center;
+        }
+
+        nav {
+            text-align: left;
+            color: black;
+            font-weight: bolder;
+        }
+
+        nav a {
+            color: white;
+        }
+
+        h3 {
+            text-align: center;
+            color: white;
+            font-weight: bolder;
+        }
+
+        footer {
+            text-align: center;
+            color: black;
+            font-weight: bolder;
+            position: absolute;
+            bottom: 0%;
+            width: 100%;
+            max-height: 10%
+        }
+
+        footer a {
+            color: white;
+        }
+
+        p {
+            color: white;
+            font-weight: bolder;
+            position: absolute;
+            left: 0%;
+            bottom: 0%;
+            width: 100%;
+            max-height: 10%;
+            display: inline-flex;
+        }
